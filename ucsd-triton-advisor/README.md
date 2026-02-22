@@ -141,5 +141,3 @@ Simply open `frontend.html` in your browser.
 - **Remaining:** 127u → Est. Grad: Spring 2029
 
 ---
-
-Built with ❤️ for UCSD Tritons · Powered by Claude AI
