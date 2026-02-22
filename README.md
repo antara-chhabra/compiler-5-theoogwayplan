@@ -33,6 +33,3 @@ Triton Advisor embodies the **next generation of adaptive interfaces**:
 - **Engagement and feedback loops:** Real-time metrics and interactive simulations create a **living interface that responds to user behavior**, promoting deeper engagement and self-directed planning.
 
 By combining **adaptive visualizations, conversational AI, predictive analytics, and multi-modal interaction**, Triton Advisor transforms the static, spreadsheet-driven world of academic advising into a **proactive, immersive, and intelligent future interface**.
-Languages:  
-- HTML 95.7%  
-- JavaScript 4.3%
