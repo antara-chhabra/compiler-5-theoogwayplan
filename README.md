@@ -2,6 +2,9 @@
 
 An adaptive, AI-native academic advising interface for students. Replacing static tools and slow appointments, Triton Advisor provides a **real-time, personalized academic pathway** using a dynamic dashboard and conversational AI avatar. Built as a hackathon demo-ready prototype, it integrates student profiles, course insights, GPA trends, and “what-if” simulations to create an engaging, **future-facing human-computer interaction (HCI) system**.
 
+## Demo Link
+https://tritonadvisor.netlify.app/
+
 ## Problem Statement
 
 Current academic advising systems at universities rely on static spreadsheets, delayed appointments, and rigid planning tools. Students often struggle to understand their graduation timeline, course difficulty, or the impact of taking extra courses.
