@@ -4,7 +4,7 @@ An adaptive, AI-native academic advising interface for students. Replacing stati
 
 ## Problem Statement
 
-Current academic advising systems at UCSD rely on static spreadsheets, delayed VAC appointments, and rigid planning tools. Students often struggle to understand their graduation timeline, course difficulty, or the impact of taking extra courses.
+Current academic advising systems at university rely on static spreadsheets, delayed appointments, and rigid planning tools. Students often struggle to understand their graduation timeline, course difficulty, or the impact of taking extra courses.
 
 **Our Solution:**  
 - A morphing, live dashboard showing GPA trends, credit load, graduation probability, and course difficulty.  
