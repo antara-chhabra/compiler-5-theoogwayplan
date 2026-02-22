@@ -46,3 +46,33 @@ Current academic advising systems at UCSD rely on **static spreadsheets, delayed
 ---
 
 ## 📁 Project Structure
+ucsd-advisor/
+├── frontend.html ← Login page
+├── dashboard.html ← Main dashboard after login
+│
+├── advisor-react/ ← React app for AI advisor
+│ ├── package.json
+│ ├── public/
+│ │ ├── index.html
+│ │ └── oogway.jpg
+│ └── src/
+│ ├── index.js
+│ └── App.jsx ← Full chat UI with UCSD branding
+│
+└── backend/ ← Express + Claude API backend
+├── package.json
+├── .env.example ← Copy to .env and add your API key
+└── src/
+└── server.js ← REST API (port 3002)
+
+
+---
+
+## 🔌 API Endpoints
+
+| Method | Path              | Description                        |
+|--------|-----------------|------------------------------------|
+| GET    | /health          | Health check                        |
+| POST   | /api/chat        | Send message to Oogway              |
+| POST   | /api/chat/stream | Streaming response (SSE)            |
+| GET    | /api/student     | Get student profile data             |
